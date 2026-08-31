@@ -1,0 +1,37 @@
+GALERIA DIGITAL — ARQUIVOS ATUALIZADOS
+
+ESTRUTURA CORRETA:
+index.html
+style.css
+script.js
+fotos/
+  foto-001.webp
+  foto-002.webp
+  foto-003.webp
+  foto-004.webp
+  foto-005.webp
+  foto-006.webp
+  foto-007.webp
+  foto-008.webp
+  foto-009.webp
+  foto-010.webp
+
+WHATSAPP CONFIGURADO:
++55 84 99147-4530
+
+COMO PUBLICAR NO GITHUB:
+1. Abra o repositório da sua galeria.
+2. Apague os arquivos antigos para evitar conflito.
+3. Envie TODO o conteúdo desta pasta mantendo exatamente a pasta "fotos".
+4. O arquivo index.html deve ficar na raiz do repositório.
+5. style.css e script.js também ficam na raiz.
+6. A pasta "fotos" deve ficar na raiz com as 10 imagens dentro.
+7. Aguarde o GitHub Pages atualizar.
+8. No navegador, pressione Ctrl + F5.
+
+IMPORTANTE:
+Não renomeie os arquivos da pasta fotos, porque o script.js usa exatamente esses nomes.
+
+Se quiser adicionar mais fotos depois:
+- use nomes sequenciais como foto-011.webp, foto-012.webp...
+- adicione também as novas entradas no arquivo script.js.
